@@ -98,6 +98,6 @@ python src/arima.py
 - Criar uma interface web para visualização das previsões
 
 ## 👤 Autor
-[Seu Nome]
+Gabriel Konno Carrozza
 - LinkedIn: <https://www.linkedin.com/in/gabrielkonno>
 - Email: gkonnoc@gmail.com
